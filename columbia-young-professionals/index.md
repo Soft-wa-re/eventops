@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Code of Conduct
+title: Columbia Young Professionals — Participation Policies
 group_name: Columbia Young Professionals
 organizer_legal: 10x Software LLC
 ---
 
-{% include policies/assumption-of-risk.md %}
+{% include policies/index.md %}

@@ -1,8 +1,8 @@
-# Columbia Young Professionals — Participation Policies
+# {{ page.group_name }} — Participation Policies
 
-**Last Updated:** 2026-01-04
+**Last Updated:** {{ site.last_updated }}
 
-These policies apply to events, activities, meetups, and community spaces organized, hosted, promoted, or facilitated by **10x Software LLC**, doing business as **Columbia Young Professionals**.
+These policies apply to events, activities, meetups, and community spaces organized, hosted, promoted, or facilitated by **{{ page.organizer_legal }}**, doing business as **{{ page.group_name }}**.
 
 Participants are encouraged to review the following documents before attending or participating in any event.
 
