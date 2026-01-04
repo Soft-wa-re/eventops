@@ -2,10 +2,8 @@
 layout: default
 permalink: /
 ---
-# EventOps Community Groups
-
-The following community groups are operated under the EventOps umbrella.
-Each group maintains its own participation policies.
+The following independent community groups are organized and facilitated by the same team.
+Each group maintains its own participation policies and event guidelines.
 
 ## Columbia
 
