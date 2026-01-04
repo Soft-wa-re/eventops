@@ -2,5 +2,4 @@ title: Columbia Young Professionals
 description: Participation policies for events hosted by 10x Software LLC (DBA Columbia Young Professionals).
 theme: jekyll-theme-primer
 url: https://eventops.soft-wa.re
-baseurl: ""
-home: /columbia-young-professionals/
+baseurl: "/columbia-young-professionals/"
