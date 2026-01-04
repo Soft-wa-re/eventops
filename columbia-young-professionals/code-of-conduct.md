@@ -1,6 +1,6 @@
 # Code of Conduct
 
-**Last Updated:** 2026-01-03
+**Last Updated:** 2026-01-04
 
 This Code of Conduct applies to all events, activities, meetups, gatherings, online spaces, and related interactions (collectively, “Events”) organized, hosted, promoted, or facilitated by **10x Software LLC**, doing business as **Columbia Young Professionals**, and its affiliated brands, projects, or community groups (the “Organizer,” “we,” “us,” or “our”).
 

@@ -1,6 +1,6 @@
 # Assumption of Risk and Release of Liability
 
-**Last Updated:** 2026-01-03
+**Last Updated:** 2026-01-04
 
 This Assumption of Risk and Release of Liability (“Agreement”) applies to all events, activities, meetups, gatherings, and related activities (collectively, “Events”) organized, hosted, promoted, or facilitated by **10x Software LLC**, doing business as **Columbia Young Professionals**, and its affiliated brands, projects, or community groups (the “Organizer,” “we,” “us,” or “our”).
 
