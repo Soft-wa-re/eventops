@@ -10,6 +10,6 @@ Each group maintains its own participation policies.
 ## Columbia
 
 - [Columbia Young Professionals](/columbia-young-professionals/)
-- [Let’s Do Something Columbia](/lets-do-something-columbia/)
+- [Columbia, Let’s Do Something!](/columbia-lets-do-something/)
 
 Policies apply per group and are linked from each group’s page.
