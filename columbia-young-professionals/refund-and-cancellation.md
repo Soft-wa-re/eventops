@@ -12,15 +12,15 @@ By registering for, RSVPing to, attending, or participating in any Event, you (�
 
 Events generally fall into one of the following categories:
 
-### 1. Free Events
+### Free Events
 
 No payment is required. No refunds apply.
 
-### 2. Paid Events – Cash Payment
+### Paid Events – Cash Payment
 
 Payment is collected in cash at or near the time of the Event. Once collected, payments are non-refundable unless explicitly stated otherwise.
 
-### 3. Paid Events – Delayed or Conditional Payment
+### Paid Events – Delayed or Conditional Payment
 
 For some Events, payment information may be collected or authorized in advance, but **payment is only completed shortly before the Event occurs**, typically after minimum attendance and event viability are confirmed.
 
