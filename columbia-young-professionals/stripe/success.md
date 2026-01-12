@@ -17,4 +17,4 @@ No further action is required from you.
 If you attend an event, the applicable event fee will be processed automatically.
 
 For full details, please review our  
-[Payment Policy](/policies/payment).
+[Policies](../index).
