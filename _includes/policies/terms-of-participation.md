@@ -48,6 +48,8 @@ Events may take place at locations owned, operated, or managed by **third partie
 
 Any transactions, services, or interactions with third parties are solely between you and those third parties.
 
+The Organizer is not responsible for third-party services provided by event hosts, including filming, content production, prize administration, or promotions.
+
 ---
 
 ## 5. Conduct and Community Standards
@@ -96,6 +98,10 @@ By participating in an Event, you grant the Organizer permission to use photos, 
 If you prefer not to be photographed or recorded, please let the Organizer or event host know in advance and position yourself outside areas where photography or recording is taking place. We’ll make reasonable efforts to accommodate requests, but photography and recording may occur in group or public settings where individual exclusion isn’t always practical.
 
 By remaining in areas where photography or recording is happening, you acknowledge and accept that you may be included in photos or recordings. We’re not able to remove or edit media after it has been captured or shared.
+
+Third-Party Recording. Some Events may be hosted by independent third-party hosts or content creators who may photograph, record, or live-stream for their own channels or platforms. Any such recording is conducted by the third-party host at their sole direction and responsibility. The Organizer does not control third-party recordings and is not responsible for third-party use, publication, or takedown of media once captured or shared.
+
+Participants who are featured (e.g., contestants, interviewees, or prize recipients) may be asked by the event host to sign a separate media release.
 
 ---
 
