@@ -1,8 +1,5 @@
 ---
-layout: default
-title: Code of Conduct
-group_name: Columbia, Let's Do Something!
-organizer_legal: 10x Software LLC
+title: Assumption of Risk & Release of Liability
 ---
 
 {% include policies/assumption-of-risk.md %}

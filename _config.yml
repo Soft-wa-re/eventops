@@ -1,3 +1,37 @@
 title: Community Groups
 theme: jekyll-theme-primer
 last_updated: 2026-02-16
+
+# Default policy set for groups unless overridden in `defaults`.
+policies_default:
+  - terms-of-participation
+  - code-of-conduct
+  - assumption-of-risk
+  - refund-and-cancellation
+
+# Directory-scoped defaults so group pages don't repeat the same front matter.
+defaults:
+  - scope:
+      path: "columbia-lets-do-something"
+    values:
+      layout: default
+      group_name: "Columbia, Let's Do Something!"
+      organizer_legal: "10x Software LLC"
+  - scope:
+      path: "columbia-young-professionals"
+    values:
+      layout: default
+      group_name: "Columbia Young Professionals"
+      organizer_legal: "10x Software LLC"
+  - scope:
+      path: "cornell-arms-lets-do-something"
+    values:
+      layout: default
+      group_name: "Cornell Arms, Let's Do Something!"
+      organizer_legal: "10x Software LLC"
+      policies:
+        - terms-of-participation
+        - code-of-conduct
+        - group-chat-and-online-communication
+        - assumption-of-risk
+        - refund-and-cancellation

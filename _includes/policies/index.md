@@ -10,17 +10,17 @@ Participants are encouraged to review the following documents before attending o
 
 ## 📜 Policies
 
-- **[Terms of Participation](./terms-of-participation)**  
-  General rules and expectations for participating in events and community spaces.
+{% assign policy_ids = page.policies | default: site.policies_default %}
 
-- **[Code of Conduct](./code-of-conduct)**  
-  Behavioral standards and reporting procedures to ensure a respectful and welcoming environment.
-
-- **[Assumption of Risk & Release of Liability](./assumption-of-risk)**  
-  Information about risks associated with participation and liability limitations.
-
-- **[Refund & Cancellation Policy](./refund-and-cancellation)**  
-  How payments, cancellations, refunds, and event viability are handled.
+{% for policy_id in policy_ids %}
+  {% assign policy = site.data.policies[policy_id] %}
+  {% if policy %}
+- **[{{ policy.label }}]({{ policy.href }})**  
+  {{ policy.description }}
+  {% else %}
+- **{{ policy_id }}** (missing entry in `_data/policies.yml`)
+  {% endif %}
+{% endfor %}
 
 ---
 

@@ -1,0 +1,24 @@
+terms-of-participation:
+  label: "Terms of Participation"
+  href: "./terms-of-participation"
+  description: "General rules and expectations for participating in events and community spaces."
+
+code-of-conduct:
+  label: "Code of Conduct"
+  href: "./code-of-conduct"
+  description: "Behavioral standards and reporting procedures to ensure a respectful and welcoming environment."
+
+group-chat-and-online-communication:
+  label: "Group Chat and Online Communication"
+  href: "./group-chat-and-online-communication"
+  description: "Guidelines for online spaces associated with the group (group chats, socials, DMs, etc.)."
+
+assumption-of-risk:
+  label: "Assumption of Risk & Release of Liability"
+  href: "./assumption-of-risk"
+  description: "Information about risks associated with participation and liability limitations."
+
+refund-and-cancellation:
+  label: "Refund & Cancellation Policy"
+  href: "./refund-and-cancellation"
+  description: "How payments, cancellations, refunds, and event viability are handled."
