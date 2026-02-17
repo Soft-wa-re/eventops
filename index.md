@@ -7,4 +7,4 @@ permalink: /
 
 - [Columbia Young Professionals](/columbia-young-professionals/)
 - [Columbia, Let’s Do Something!](/columbia-lets-do-something/)
-- [Cornell Arms, Let’s Do Something!](/cornell-arms-lets-do-something/)
+<!-- - [Cornell Arms, Let’s Do Something!](/cornell-arms-lets-do-something/) -->
