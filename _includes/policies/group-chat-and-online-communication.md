@@ -4,21 +4,21 @@
 
 **Last Updated:** {{ site.last_updated }}
 
-These Group Chat & Online Communication Guidelines apply to all community messaging spaces, including group chats, email threads, comment sections, and other digital platforms associated with **{{ page.group_name }}** (the “Community Spaces”).
+These Group Chat & Online Communication Guidelines apply only to digital communication spaces administered by **{{ page.organizer_legal }}**, doing business as **{{ page.group_name }}** (the “Community Chat”).
 
-These guidelines operate in conjunction with the Code of Conduct and all related policies.
+These guidelines operate in conjunction with the Code of Conduct and apply solely to messaging platforms and online communication channels managed by the Organizer.
 
 ---
 
-## 1. Purpose of Community Spaces
+## 1. Purpose of the Community Chat
 
-Community Spaces exist primarily for:
+The Community Chat exists primarily for:
 
 * Event coordination and announcements
 * Light, community-oriented interaction
 * Sharing information relevant to upcoming Events
 
-These spaces are not intended to serve as general debate forums or open-topic discussion boards.
+The Community Chat is not intended to function as a general debate forum or open-topic discussion board.
 
 ---
 
@@ -26,9 +26,9 @@ These spaces are not intended to serve as general debate forums or open-topic di
 
 To maintain a welcoming and low-conflict environment for participants of diverse backgrounds and viewpoints:
 
-* Partisan political campaigning, advocacy, or debate is not permitted.
+* Partisan political campaigning, advocacy, or debate is not permitted within the Community Chat.
 * Content likely to generate divisive or hostile discussion may be removed.
-* Repeated attempts to initiate polarizing discussions may result in moderation.
+* Repeated attempts to initiate polarizing discussions may result in moderation action within the Community Chat.
 
 This guideline applies regardless of political affiliation or viewpoint.
 
@@ -38,19 +38,21 @@ This guideline applies regardless of political affiliation or viewpoint.
 
 Occasional light conversation is welcome. However:
 
-* Repeated off-topic posting that disrupts the primary purpose of the space may be moderated.
+* Repeated off-topic posting that disrupts the primary purpose of the Community Chat may be moderated.
 * Spam, promotional content, or unrelated advertising is not permitted without prior approval.
 
 ---
 
-## 4. Moderation Authority
+## 4. Moderation Authority (Chat Only)
 
-The Organizer reserves the right, at its sole discretion, to:
+The Organizer reserves the right, at its sole discretion, to moderate the Community Chat, including:
 
-* Remove or edit messages
-* Temporarily mute participants
-* Remove participants from Community Spaces
-* Restrict posting privileges
+* Removing or editing messages
+* Temporarily muting participants
+* Removing individuals from the Community Chat
+* Restricting posting privileges within the Community Chat
+
+Moderation decisions apply only to the Community Chat and do not affect a resident’s status with the property or access to the apartment complex.
 
 Moderation decisions are made to preserve a respectful, welcoming environment and are final.
 
@@ -61,13 +63,17 @@ Moderation decisions are made to preserve a respectful, welcoming environment an
 Participants who repeatedly violate these guidelines may:
 
 * Receive a warning
-* Be temporarily suspended from Community Spaces
-* Be removed from Events or future participation, as appropriate
+* Be temporarily suspended from the Community Chat
+* Be removed from the Community Chat
+
+In serious cases, behavior may be referred to appropriate authorities or property management if required by law or safety concerns.
 
 ---
 
 ## 6. Relationship to Code of Conduct
 
-All expectations outlined in the Code of Conduct apply fully within Community Spaces.
+All expectations outlined in the Code of Conduct apply within the Community Chat.
 
-Participation in Community Spaces constitutes agreement to abide by these guidelines.
+Participation in the Community Chat constitutes agreement to abide by these guidelines.
+
+---
