@@ -10,15 +10,15 @@ Participants are encouraged to review the following documents before attending o
 
 ## 📜 Policies
 
-{% assign policy_ids = page.policies | default: site.policies_default %}
+{% assign policy_ids = page.policies %}
 
 {% for policy_id in policy_ids %}
-  {% assign policy = site.data.policies[policy_id] %}
+  {% assign policy = site.policies_catalog[policy_id] %}
   {% if policy %}
 - **[{{ policy.label }}]({{ policy.href }})**  
   {{ policy.description }}
   {% else %}
-- **{{ policy_id }}** (missing entry in `_data/policies.yml`)
+- **{{ policy_id }}** (missing entry in `_config.yml` `policies_catalog`)
   {% endif %}
 {% endfor %}
 
