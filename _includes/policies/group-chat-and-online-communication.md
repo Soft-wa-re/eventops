@@ -43,7 +43,18 @@ Occasional light conversation is welcome. However:
 
 ---
 
-## 4. Moderation Authority (Chat Only)
+## 4. Excessive Posting
+
+To keep the Community Chat usable for everyone:
+
+* Avoid sending many back-to-back messages in a short time, especially if the content could be combined into one message.
+* Avoid “flooding” the chat with multiple photos, videos, or long multi-part updates. When possible, consolidate or use a single post/thread.
+* If you have a longer discussion, move it to direct messages (DMs) unless it’s clearly relevant to the broader group.
+* Repeated excessive posting after a moderator request to slow down may result in moderation action.
+
+---
+
+## 5. Moderation Authority (Chat Only)
 
 The Organizer reserves the right, at its sole discretion, to moderate the Community Chat, including:
 
@@ -58,7 +69,7 @@ Moderation decisions are made to preserve a respectful, welcoming environment an
 
 ---
 
-## 5. Escalation
+## 6. Escalation
 
 Participants who repeatedly violate these guidelines may:
 
@@ -70,7 +81,7 @@ In serious cases, behavior may be referred to appropriate authorities or propert
 
 ---
 
-## 6. Relationship to Code of Conduct
+## 7. Relationship to Code of Conduct
 
 All expectations outlined in the Code of Conduct apply within the Community Chat.
 
