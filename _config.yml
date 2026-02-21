@@ -2,6 +2,15 @@ title: Community Groups
 theme: jekyll-theme-primer
 last_updated: 2026-02-21
 
+# List of groups shown on the homepage.
+groups:
+  - name: "Columbia Young Professionals"
+    path: "/columbia-young-professionals/"
+  - name: "Columbia, Let’s Do Something!"
+    path: "/columbia-lets-do-something/"
+  - name: "South Main Neighbors"
+    path: "/south-main-after-hours/"
+
 # Policy catalog (replaces `_data/policies.yml`).
 policies_catalog:
   terms-of-participation:
@@ -52,7 +61,7 @@ defaults:
       path: "south-main-after-hours"
     values:
       layout: default
-      group_name: "South Main, After Hours"
+      group_name: "South Main Neighbors"
       organizer_legal: "10x Software LLC"
       policies:
         - terms-of-participation

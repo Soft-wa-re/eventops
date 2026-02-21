@@ -3,8 +3,8 @@ layout: default
 permalink: /
 ---
 
-## Columbia
+## Groups
 
-- [Columbia Young Professionals](/columbia-young-professionals/)
-- [Columbia, Let’s Do Something!](/columbia-lets-do-something/)
-- [South Main, After Hours](/south-main-after-hours/)
+{% for group in site.groups %}
+- [{{ group.name }}]({{ group.path }})
+{% endfor %}

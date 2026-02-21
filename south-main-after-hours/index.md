@@ -1,5 +1,5 @@
 ---
-title: South Main, After Hours — Participation Policies
+title: South Main Neighbors — Participation Policies
 ---
 
 {% include policies/index.md %}
