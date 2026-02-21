@@ -48,15 +48,15 @@ defaults:
       group_name: "Columbia Young Professionals"
       organizer_legal: "10x Software LLC"
       policies: *policies_default
-  # - scope:
-  #     path: "cornell-arms-lets-do-something"
-  #   values:
-  #     layout: default
-  #     group_name: "Cornell Arms, Let's Do Something!"
-  #     organizer_legal: "10x Software LLC"
-  #     policies:
-  #       - terms-of-participation
-  #       - code-of-conduct
-  #       - group-chat-and-online-communication
-  #       - assumption-of-risk
-  #       - refund-and-cancellation
+  - scope:
+      path: "1200-pendleton-lets-do-something"
+    values:
+      layout: default
+      group_name: "1200 Pendleton Lets Do Something"
+      organizer_legal: "10x Software LLC"
+      policies:
+        - terms-of-participation
+        - code-of-conduct
+        - group-chat-and-online-communication
+        - assumption-of-risk
+        - refund-and-cancellation
