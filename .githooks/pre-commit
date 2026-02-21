@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+CONFIG_FILE="_config.yml"
+if [[ ! -f "$CONFIG_FILE" ]]; then
+  exit 0
+fi
+
+today="$(date +%F)"
+
+current="$(ruby -e '
+  file = ARGV[0]
+  line = File.readlines(file, chomp: true).find { |l| l.start_with?("last_updated:") }
+  puts(line ? line.split(":", 2)[1].strip : "")
+' "$CONFIG_FILE" 2>/dev/null || true)"
+
+if [[ -z "${current:-}" ]]; then
+  exit 0
+fi
+
+if [[ "$current" != "$today" ]]; then
+  # Update in place (portable across macOS/Linux sed quirks).
+  ruby -i -pe "gsub(/^last_updated:\\s*\\d{4}-\\d{2}-\\d{2}\\s*\\z/, 'last_updated: #{ENV.fetch('TODAY')}')" \
+    TODAY="$today" \
+    "$CONFIG_FILE"
+
+  git add "$CONFIG_FILE"
+
+  echo "pre-commit: updated last_updated to $today in $CONFIG_FILE" >&2
+  echo "pre-commit: re-run commit to include the updated date" >&2
+  exit 1
+fi
+
+exit 0
+

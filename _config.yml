@@ -1,6 +1,6 @@
 title: Community Groups
 theme: jekyll-theme-primer
-last_updated: 2026-02-17
+last_updated: 2026-02-21
 
 # Policy catalog (replaces `_data/policies.yml`).
 policies_catalog:
@@ -49,10 +49,10 @@ defaults:
       organizer_legal: "10x Software LLC"
       policies: *policies_default
   - scope:
-      path: "1200-pendleton-lets-do-something"
+      path: "south-main-after-hours"
     values:
       layout: default
-      group_name: "1200 Pendleton Lets Do Something"
+      group_name: "South Main, After Hours"
       organizer_legal: "10x Software LLC"
       policies:
         - terms-of-participation
