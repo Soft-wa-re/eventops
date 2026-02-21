@@ -9,7 +9,7 @@ groups:
   - name: "Columbia, Let’s Do Something!"
     path: "/columbia-lets-do-something/"
   - name: "South Main Neighbors"
-    path: "/south-main-after-hours/"
+    path: "/south-main-neighbors/"
 
 # Policy catalog (replaces `_data/policies.yml`).
 policies_catalog:
@@ -58,7 +58,7 @@ defaults:
       organizer_legal: "10x Software LLC"
       policies: *policies_default
   - scope:
-      path: "south-main-after-hours"
+      path: "south-main-neighbors"
     values:
       layout: default
       group_name: "South Main Neighbors"
